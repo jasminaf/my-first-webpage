@@ -4,14 +4,14 @@
 
 ### By _Jasmina Filipovic_
 
-##Description##
+## Description
 
 _Simple web page containing just a plain text_
 
-##Support and contact details##
+## Support and contact details##
 
 _In case of any problems you can contact me at:_ **jasmina_filipovic@hotmail.com**
 
-##Technologies Used##
+## Technologies Used##
 
 _html_
