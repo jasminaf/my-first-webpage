@@ -8,6 +8,8 @@
 
 _Simple web page containing just a plain text_
 
+** Clone this repository: _(https://github.com/jasminaf/my-first-webpage)_
+
 ## Support and contact details
 
 _In case of any problems you can contact me at:_ **jasmina_filipovic@hotmail.com**
