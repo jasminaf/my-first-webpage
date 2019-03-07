@@ -8,7 +8,7 @@
 
 _Simple web page containing just a plain text_
 
-**Clone this repository: _(https://github.com/jasminaf/my-first-webpage)_**
+**Clone this repository: https://github.com/jasminaf/my-first-webpage**
 
 ## Support and contact details
 
